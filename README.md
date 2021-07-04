@@ -1,2 +1,2 @@
-# Aenmelss.github.io
+# Никита Тетерин
 MyFirstProject
